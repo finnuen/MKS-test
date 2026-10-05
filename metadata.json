@@ -1,0 +1,6 @@
+{
+  "name": "Win32 Hardware Diagnostics Utility",
+  "description": "Standalone C++ Win32 desktop utility and interactive simulator for testing keyboards, mice, and speakers with low-level input hooks, lock-free ring buffers, and real-time PCM audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
