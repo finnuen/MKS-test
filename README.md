@@ -1,5 +1,6 @@
 standalone app with no dependencies
-simply download the .exe in releases and run it
+
+simply download the `.exe` in releases and run it
 
 <img width="1280" height="746" alt="2026-10-06_06-19-59" src="https://github.com/user-attachments/assets/03bf50bf-9b3f-4cf1-aabf-04040875587e" />
 <img width="1282" height="747" alt="2026-10-06_06-21-06" src="https://github.com/user-attachments/assets/da739fad-9447-4b18-8d93-cad900f95660" />
